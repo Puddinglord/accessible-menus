@@ -1,0 +1,9 @@
+{
+  "name": "accessible-menus",
+  "title": "Accessible Menus",
+  "description": "Roll20-like menus that you can access with your keyboard!",
+  "author": "Dakotah Cote",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.8.6",
+  "scripts": ["main.js"]
+}
