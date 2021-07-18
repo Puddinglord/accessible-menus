@@ -5,5 +5,8 @@
   "author": "Dakotah Cote",
   "version": "0.0.1",
   "minimumCoreVersion": "0.8.6",
-  "scripts": ["main.js"]
+  "scripts": ["main.js"],
+  "url": "https://github.com/Puddinglord/accessible-menus",
+  "manifest": "https://raw.githubusercontent.com/Puddinglord/accessible-menus/main/module.json",
+  "download": "https://github.com/Puddinglord/accessible-menus/releases/download/v0.0.1/accessible-menus.zip"
 }
