@@ -8,5 +8,5 @@
   "scripts": ["main.js"],
   "url": "https://github.com/Puddinglord/accessible-menus",
   "manifest": "https://raw.githubusercontent.com/Puddinglord/accessible-menus/main/module.json",
-  "download": "https://github.com/Puddinglord/accessible-menus/releases/download/v0.0.1/accessible-menus.zip"
+  "download": "https://github.com/Puddinglord/accessible-menus/releases/download/v0.0.2/accessible-menus.zip"
 }
